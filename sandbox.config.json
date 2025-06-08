@@ -1,6 +1,0 @@
-{
-  "container": {
-    "node": "18",
-    "startScript": "cd rem-waste-front && npm start"
-  }
-}
