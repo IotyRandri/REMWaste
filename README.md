@@ -52,8 +52,7 @@ Added a new component that will display all of the necessary data about the skip
 
 
 1. Added typescript support for better maintanability for the component
-    * Installed typescript support using <code>npm install --save typescript @types/node @types/react @types/react-dom @types/jest
-</code>
+    * Installed typescript support using <code>npm install --save typescript @types/node @types/react @types/react-dom @types/jest</code>
     * Bug fixing for typescript not working
 
 2. Added a button for selecting the skip (no js functionality yet)
@@ -65,20 +64,21 @@ All html first without CSS styling (component creation)
 
 1. Added or modified CSS to skip component for styling
 
-
-<u>TO DO</u>
-2. Add CSS to navbar
+2. Added CSS to navbar
+    * Used simplified CSS for usability first
 
 ## 8. Add interactivity to the skips
 
-1. Add html and js code to pivot the skip card to show additional data (selected in the example)
-    * Add Back and Continue buttons in html (back of card)
+1. Added html and js code to pivot the skip card to show additional data (selected in the example)
+    * Added Back and Continue buttons in html (back of card)
 
 ## 9. Populate Skips from API
 
-1. Edit code to show skips from api
-2. Debug and fix if any bugs found
+1. Edited code to show skips from api
+2. Debugged and fixed any bugs found
 
 ## 10. Publish website on sandbox and fill form
+
+Published the code online for you to enjoy 😁!
 
 
