@@ -2,11 +2,7 @@
   // These tasks will run in order when initializing your CodeSandbox project.
   "setupTasks": [
     {
-      "command": "npm run build",
-      "name": "build app for prod"
-    },
-    {
-      "command": "cd rem-waste-front && npm start",
+      "command": "cd rem-waste-front",
       "name": "move to appropriate folder and start app"
     }
   ],
